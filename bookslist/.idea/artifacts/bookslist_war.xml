@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookslist:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JavaRush-bookslist.war">
+      <element id="artifact" artifact-name="bookslist:war exploded" />
+    </root>
+  </artifact>
+</component>
